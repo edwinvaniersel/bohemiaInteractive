@@ -1,0 +1,1 @@
+{"version":3,"file":"main.css","sources":["main.scss"],"sourcesContent":["body {\r\n\tbackground: #666;\r\n}\r\n\r\nheader {\r\n\tbackground: #fff;\r\n}"],"mappings":"AAAA,AAAA,IAAI,CAAC;EACJ,UAAU,EAAE,IAAK,GACjB;;AAED,AAAA,MAAM,CAAC;EACN,UAAU,EAAE,IAAK,GACjB","names":[],"sourceRoot":"/source/"}

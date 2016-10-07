@@ -7,6 +7,9 @@ It includes livereload, css mapping and uglify.
 
 This app will let you add and remove users 
 
+The app url: localhost:8080
+
+
 Based on Jasonwhatmore.com setup 
 
 

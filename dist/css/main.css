@@ -4,4 +4,15 @@ body {
 header {
   background: #fff; }
 
+.users span {
+  display: block;
+  margin-bottom: 0.5em; }
+
+.users li {
+  margin-bottom: 2em; }
+
+.register span {
+  display: block;
+  margin-bottom: 1em; }
+
 /*# sourceMappingURL=maps/main.css.map */

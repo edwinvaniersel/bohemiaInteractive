@@ -1,7 +1,31 @@
+
+//Since the SASS/CSS is minimal, I am not putting it in different files
+
+
 body {
 	background: #666;
 }
 
 header {
 	background: #fff;
+}
+// Home page css
+.users {
+
+	span {
+		display: block;
+		margin-bottom: 0.5em;
+	}
+	li {
+		margin-bottom: 2em;
+	}
+}
+
+//Register page css
+.register {
+
+	span {
+		display: block;
+		margin-bottom: 1em;
+	}
 }

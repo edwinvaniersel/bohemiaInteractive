@@ -1,0 +1,28 @@
+{
+  "name": "project2",
+  "version": "0.0.2",
+  "description": "test_skills",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edwinvaniersel/bohemiaInteractive.git"
+  },
+  "author": "edwinvaniersel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edwinvaniersel/bohemiaInteractive/issues"
+  },
+  "homepage": "https://github.com/edwinvaniersel/bohemiaInteractive#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-livereload": "^3.8.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sass": "^2.3.2",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^2.0.0",
+    "gulp-webserver": "^0.9.1"
+  }
+}
